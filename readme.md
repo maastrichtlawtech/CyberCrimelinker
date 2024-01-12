@@ -1,4 +1,4 @@
-# CyberCrimelinker : Connecting Illegal Vendors on Darknet markets: Responsible Authorship Attribution to Link and Connect online Cybercrimes
+# CyberCrimelinker: Connecting Illegal Vendors on Darknet markets: Responsible Authorship Attribution to Link and Connect online Cybercrimes
 
 In this tutorial, we address the significant challenge law enforcement agencies face in uncovering illegal markets and their connections due to the anonymity on these platforms. Perpetrators often remain undetected by adopting multiple aliases or frequently shifting between markets. To tackle this issue, we demonstrate the responsible application of the Authorship Attribution (AA) approaches **([1,2])** within Natural Language Processing (NLP).
 
@@ -6,7 +6,19 @@ AA approaches in NLP involve determining a text's likely author or source based 
 
 The tutorial will explore the difficulties of implementing these AA techniques, providing practical insights and methodologies for effectively identifying and connecting unique vendor accounts across various text advertisements of Agora Darknet Market. By understanding and leveraging the distinctive writing patterns of individuals, law enforcement agencies can enhance their capabilities in tracking and combating illicit activities on the Darknet.
 
+# Dataset
+
+
+
+# Presenters
+
+1. [Vageesh Saxena](https://www.maastrichtuniversity.nl/vk-saxena)
+2. [Ass. prof. Aurelia Tamo](https://www.maastrichtuniversity.nl/tamo-larrieux)
+3. [Prof. Gijs Van Dijck](https://www.maastrichtuniversity.nl/nl/g-van-dijck)
+4. [Ass. prof. Gerasimos Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/)
+
 # References
 
 1. [VendorLink: An NLP approach for Identifying & Linking Vendor Migrants & Potential Aliases on Darknet Markets - ACL, 2023](https://arxiv.org/abs/2310.05484)
 2. [IDTraffickers: An Authorship Attribution Dataset to link and connect Potential Human-Trafficking Operations on Text Escort Advertisements - EMNLP, 2023](https://arxiv.org/abs/2310.05484)
+
