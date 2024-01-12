@@ -36,15 +36,15 @@ The tutorial will explore the difficulties of implementing these AA techniques, 
    4. Explainability frameworks
 
 5.  **Hands-on session: Authorship Verification; An open-set Retrieval Task**
-   1. Extracting text representations
-   2. FAISS
+      1. Extracting text representations
+      2. FAISS
 
 6. **Conclusion**
-   1. Where do we stand?
-   2. Limitations
-   3. Future Work
+      1. Where do we stand?
+      2. Limitations
+      3. Future Work
 
-**(*) Disclaimer:** Due to time constraints, our exploration of the Python code will be limited, with most functionalities encapsulated within functions and classes. The primary goal of this workshop is not to delve into the intricacies of text classification and retrieval in NLP. Instead, our focus is on demonstrating how AA approaches can be applied responsibly to identify and connect criminal entities within illegal online markets. We aim to showcase the application of these techniques rather than providing an in-depth tutorial. Questions are welcome during the break time or after the workshop.
+**(*) Disclaimer:** Due to time constraints, our exploration of the Python code will be limited, with most functionalities encapsulated within functions and classes. The primary goal of this workshop is not to delve into the intricacies of text classification and retrieval in NLP. Instead, our focus is on demonstrating how AA approaches can be applied responsibly to identify and connect criminal entities within illegal online markets. We aim to showcase the application of these techniques rather than providing an in-depth tutorial. Any questions are welcome during the break time or after the workshop.
 
 # Dataset
 
