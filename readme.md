@@ -8,8 +8,8 @@ The tutorial will explore the difficulties of implementing these AA techniques, 
 
 # Dataset
 
-
-
+[Agora Darknet Market](https://www.kaggle.com/datasets/philipjames11/dark-net-marketplace-drug-data-agora-20142015): The Agora Darknet market, operational on the Tor network, was launched in 2013 and gained prominence as a leading platform after the closure of Evolution in March 2015. Operating until August 2015, Agora distinguished itself by surviving Operation Onymous, which targeted various darknet websites in November 2014. Administrators announced the market's closure in response to potential threats and suspicions of server de-anonymization. An art exhibition in Switzerland, titled "The Darknet: From Memes to Onionland," featured an exploration of darknet culture, including purchases made by the automated shopping bot, Random Darknet Shopper, on Agora. Despite its resilience, vulnerabilities in the Tor Hidden Services protocol were revealed, prompting Agora's administrators to suspend operations temporarily. The closure led to a shift in activity to AlphaBay until its shutdown by law enforcement in July 2017. To read more about the Agora darknet market, please take a look at [Wikipidia](https://en.wikipedia.org/wiki/Agora_(online_marketplace)).
+ 
 # Presenters
 
 1. [Vageesh Saxena](https://www.maastrichtuniversity.nl/vk-saxena)
