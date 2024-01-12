@@ -1,10 +1,10 @@
-# CyberCrimelinker: Connecting Illegal Vendors on Darknet markets: Responsible Authorship Attribution to Link and Connect online Cybercrimes
+# CyberCrimelinker: Connecting Illegal Vendors on Darknet Markets: Responsible Authorship Attribution to Link and Connect Online Cybercrimes
 
-In this tutorial, we address the significant challenge law enforcement agencies face in uncovering illegal markets and their connections due to the anonymity on these platforms. Perpetrators often remain undetected by adopting multiple aliases or frequently shifting between markets. To tackle this issue, we demonstrate the responsible application of the Authorship Attribution (AA) approaches **([1,2])** within Natural Language Processing (NLP).
+In this workshop, we address the significant challenge law enforcement agencies face in uncovering illegal markets and their connections due to the anonymity on these platforms. Perpetrators often remain undetected by adopting multiple aliases or frequently shifting between markets. To tackle this issue, we demonstrate the responsible application of the Authorship Attribution (AA) approaches **([1,2])** within Natural Language Processing (NLP).
 
 AA approaches in NLP involve determining a text's likely author or source based on linguistic features and patterns. These approaches are particularly useful in identifying and linking written content to specific individuals, which can be valuable in various applications, including forensic analysis, plagiarism detection, and tracking activities on online platforms. This workshop aims to develop methods that enable law enforcement to connect the dots and establish relationships between illegal Darknet markets and their vendors. We employ advanced NLP techniques to unveil the distinctive linguistic fingerprints that individual authors leave in their writings. These fingerprints may include syntactic structures, vocabulary choices, writing style, and other linguistic nuances that can be extracted and analyzed. Through a responsible application of AA approaches, investigators can trace and link these linguistic patterns to specific vendors, thus uncovering their identities and affiliations within the illegal markets.
 
-The tutorial will explore the difficulties of implementing these AA techniques, providing practical insights and methodologies for effectively identifying and connecting unique vendor accounts across various text advertisements of the Agora Darknet Market. By understanding and leveraging the distinctive writing patterns of individuals, law enforcement agencies can enhance their capabilities in tracking and combating illicit activities on the Darknet.
+The workshop will explore the difficulties of implementing these AA techniques, providing practical insights and methodologies for effectively identifying and connecting unique vendor accounts across various text advertisements of the Agora Darknet Market, and elaborate on responsible guidelines for the field. By understanding and leveraging the distinctive writing patterns of individuals, law enforcement agencies can enhance their capabilities in tracking and combating illicit activities on the Darknet.
 
 # Workshop Content(*)
 
@@ -59,9 +59,9 @@ The tutorial will explore the difficulties of implementing these AA techniques, 
 # Presenters
 
 1. [Vageesh Saxena](https://www.maastrichtuniversity.nl/vk-saxena)
-2. [Ass. prof. Aurelia Tamo](https://www.maastrichtuniversity.nl/tamo-larrieux)
-3. [Prof. Gijs Van Dijck](https://www.maastrichtuniversity.nl/nl/g-van-dijck)
-4. [Ass. prof. Gerasimos Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/)
+2. [Associate Prof. Aurelia Tamo-Larrieux](https://orcid.org/0000-0003-3404-7643)
+3. [Ass. prof. Gerasimos Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/)
+4. [Prof. Gijs Van Dijck](https://www.maastrichtuniversity.nl/nl/g-van-dijck) 
 
 # Publications
 
