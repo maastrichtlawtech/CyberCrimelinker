@@ -65,6 +65,6 @@ The tutorial will explore the difficulties of implementing these AA techniques, 
 
 # Publications
 
-1. [VendorLink: An NLP approach for Identifying & Linking Vendor Migrants & Potential Aliases on Darknet Markets - ACL, 2023](https://arxiv.org/abs/2310.05484)
-2. [IDTraffickers: An Authorship Attribution Dataset to link and connect Potential Human-Trafficking Operations on Text Escort Advertisements - EMNLP, 2023](https://arxiv.org/abs/2310.05484)
+1. [VendorLink: An NLP approach for Identifying & Linking Vendor Migrants & Potential Aliases on Darknet Markets - ACL, 2023](https://aclanthology.org/2023.acl-long.481/)
+2. [IDTraffickers: An Authorship Attribution Dataset to link and connect Potential Human-Trafficking Operations on Text Escort Advertisements - EMNLP, 2023](https://aclanthology.org/2023.emnlp-main.524/)
 
